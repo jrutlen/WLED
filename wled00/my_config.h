@@ -22,18 +22,18 @@
 // #define USERMOD_BATTERY_LOW_POWER_INDICATOR_THRESHOLD 5 // Battery percentage threshold for low power indicator
 // #define USERMOD_BATTERY_LOW_POWER_INDICATOR_PRESET 1 // Preset to use for low power indicator
 
-#define MDNS_NAME "MagicQR" // mDNS hostname, ie: *.local
+#define MDNS_NAME "MagicCandle" // mDNS hostname, ie: *.local
 
 #define WLED_MAX_BUTTONS 2 // Maximum number of buttons
 #define LEDPIN 1
-#define DEFAULT_LED_COUNT 75 //Standard Magic QR has 75 LEDs
-#define WLED_AP_SSID "Magic QR" // Name of default WLED access point
+#define DEFAULT_LED_COUNT 100 //Standard Magic QR has 75 LEDs
+#define WLED_AP_SSID "Magic Candle" // Name of default WLED access point
 #define WLED_AP_PASS "itmightbemagic" // Password for default WLED access point
 
-#define WLED_VERSION "QR"
-#define BTNPIN 9 
+#define WLED_VERSION "MC"
+#define BTNPIN 7 
 
-#define SERVERNAME "MagicQR" // Name of WLED server for API calls
+#define SERVERNAME "MagicCandle" // Name of WLED server for API calls
 
 // #define USERMOD_SN_PHOTORESISTOR
 // #define USERMOD_SN_PHOTORESISTOR_REFERENCE_VOLTAGE 3.3
