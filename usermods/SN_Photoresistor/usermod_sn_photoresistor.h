@@ -3,7 +3,7 @@
 #include "wled.h"
 
 //Pin defaults for QuinLed Dig-Uno (A0)
-#define PHOTORESISTOR_PIN A0
+#define PHOTORESISTOR_PIN 3
 
 // the frequency to check photoresistor, 10 seconds
 #ifndef USERMOD_SN_PHOTORESISTOR_MEASUREMENT_INTERVAL
