@@ -31,7 +31,7 @@
 #define WLED_AP_PASS "itmightbemagic" // Password for default WLED access point
 
 #define WLED_VERSION "MC"
-#define BTNPIN 7 
+#define BTNPIN -1,7
 
 #define SERVERNAME "MagicCandle" // Name of WLED server for API calls
 
