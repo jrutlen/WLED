@@ -34,3 +34,5 @@
 #define BTNPIN 9 
 
 #define SERVERNAME "SpectaculEARS" // Name of WLED server for API calls
+
+#define WLED_AP_SSID_UNIQUE
